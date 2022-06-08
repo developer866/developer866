@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on frontened projects.
+- 🔭 I’m currently working on frontenend web development projects.
 - 🌱 I’m currently learning data analysis.
 - 👯 I’m looking to collaborate on frontend wed development,javascript and data analysis.
 - 🤔 I’m looking for help with technical issuse and advice.
