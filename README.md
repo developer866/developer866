@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+Little details about me:
 
 - 🔭 I’m currently working on frontenend web development projects.
 - 🌱 I’m currently learning data analysis.
