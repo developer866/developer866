@@ -1,4 +1,4 @@
-### Hi there 👋
+### Ask About Me 👋
 
 Little details about me:
 
@@ -11,6 +11,3 @@ Little details about me:
 - 📫 How to reach me: https://twitter.com/tee_jay_fx
   
 - 😄 Pronouns:(HE<HIM<HIS)
-  
-
-
