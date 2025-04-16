@@ -11,3 +11,5 @@ Little details about me:
 - 📫 How to reach me: https://twitter.com/tee_jay_fx
   
 - 😄 Pronouns:(HE<HIM<HIS)
+
+[!My GitHub stats](https://github-readme-stats.vercel.app/api?username=developer866)](https://github.com/anuraghazra/github-readme-stats)
