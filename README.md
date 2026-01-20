@@ -1,10 +1,11 @@
 Hi 👋 My name is Ayeni Opeyemi
 =====================================================================
 
-Frontend Web Developer
+Full Stack Web Developer(MERN)
 -----------------------
 
-I'm a passionate Frontend Developer who loves building clean, responsive, and user-friendly web interfaces.  
+I'm a passionate Frontend Developer who loves building clean, responsive, and user-friendly web interfaces. 
+my Goal is to use web development to solve real world problems🐱‍👤
 I enjoy turning ideas into beautiful and functional websites using **React**, **Tailwind CSS**, and modern web technologies.  
 Always learning, always creating. 🚀  
 
