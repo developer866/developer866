@@ -12,7 +12,6 @@ Always learning, always creating. 🚀
 * 🌍  I'm based in **Nigeria**  
 * 🖥️  See my portfolio at [MyPortfolio](https://portfolio-nu-six-65.vercel.app/)  
 * ✉️  You can contact me at [opeyemijoseph866@gmail.com](mailto:opeyemijoseph866@gmail.com)  
-* 🧠  I'm currently learning **Backend Web Development**  
 * 🤝  I'm open to collaborating on **Frontend Projects**  
 * ⚡  Web3 enthusiast  
 
