@@ -1,16 +1,16 @@
 Hi 👋 My name is Ayeni Opeyemi
 =====================================================================
 
-Full Stack Web Developer(MERN)
+Frontend Web Developer(MERN)
 -----------------------
 
 I'm a passionate Frontend Developer who loves building clean, responsive, and user-friendly web interfaces. 
-my Goal is to use web development to solve real world problems🐱‍👤
+my goal is to use web development to solve real-world problems🐱‍👤
 I enjoy turning ideas into beautiful and functional websites using **React**, **Tailwind CSS**, and modern web technologies.  
 Always learning, always creating. 🚀  
 
-* 🌍  I'm based in **Nigeria**  
-* 🖥️  See my portfolio at [MyPortfolio](https://portfolio-nu-six-65.vercel.app/)  
+* 🌍  I'm based in **Lagos**  
+* 🖥️  See my portfolio at [MyPortfolio](https://ayeni-opeyemi.vercel.app/)  
 * ✉️  You can contact me at [opeyemijoseph866@gmail.com](mailto:opeyemijoseph866@gmail.com)  
 * 🤝  I'm open to collaborating on **Frontend Projects**  
 * ⚡  Web3 enthusiast  
